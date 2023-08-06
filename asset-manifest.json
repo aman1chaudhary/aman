@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aman/static/css/main.ea7c79ef.css",
-    "main.js": "/aman/static/js/main.962f27ef.js",
+    "main.js": "/aman/static/js/main.73622818.js",
     "static/media/bg1.jpg": "/aman/static/media/bg1.93d89dd8e162538288d0.jpg",
     "static/media/main-background.jpg": "/aman/static/media/main-background.93d89dd8e162538288d0.jpg",
     "static/media/lulc_analysis.jpg": "/aman/static/media/lulc_analysis.95b414d91b038be1679d.jpg",
@@ -22,17 +22,13 @@
     "static/media/fontawesome-webfont.eot": "/aman/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/aman/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/google_clone.jpg": "/aman/static/media/google_clone.c1594bfa075d69d4e82f.jpg",
-    "static/media/pic3.jpg": "/aman/static/media/pic3.c6eaf9dafd3172384f2b.jpg",
     "static/media/logo.png": "/aman/static/media/logo.712ca74cbeb9296e5051.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/aman/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/kentrix_persona.jpg": "/aman/static/media/kentrix_persona.e16deaa6c6fa42a0af95.jpg",
-    "static/media/pic4.jpg": "/aman/static/media/pic4.a8fd299776c745c0aa9f.jpg",
     "static/media/themify.eot": "/aman/static/media/themify.9bad94440d49256265a5.eot",
     "static/media/themify.ttf?-fvbane": "/aman/static/media/themify.eda8b94308c6f538f04a.ttf",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/aman/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/pic1.jpg": "/aman/static/media/pic1.c8cd76f258c0eeb7b6ac.jpg",
     "static/media/themify.woff?-fvbane": "/aman/static/media/themify.29b39089170885ae2967.woff",
-    "static/media/pic2.jpg": "/aman/static/media/pic2.a47acd2e737e71c5967e.jpg",
     "static/media/Flaticon.eot": "/aman/static/media/Flaticon.a5aa3a6845e2c6f293fd.eot",
     "static/media/Flaticon.ttf": "/aman/static/media/Flaticon.d578cf3235238cd17c6a.ttf",
     "static/media/bg2.png": "/aman/static/media/bg2.9c69ce8352a04b425fbc.png",
@@ -45,10 +41,10 @@
     "static/media/slick.woff": "/aman/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/aman/index.html",
     "main.ea7c79ef.css.map": "/aman/static/css/main.ea7c79ef.css.map",
-    "main.962f27ef.js.map": "/aman/static/js/main.962f27ef.js.map"
+    "main.73622818.js.map": "/aman/static/js/main.73622818.js.map"
   },
   "entrypoints": [
     "static/css/main.ea7c79ef.css",
-    "static/js/main.962f27ef.js"
+    "static/js/main.73622818.js"
   ]
 }
