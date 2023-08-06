@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1282189.css",
-    "main.js": "/static/js/main.298168b0.js",
+    "main.css": "/static/css/main.fb0524f6.css",
+    "main.js": "/static/js/main.3c9b9b85.js",
     "static/media/bg1.jpg": "/static/media/bg1.93d89dd8e162538288d0.jpg",
     "static/media/main-background.jpg": "/static/media/main-background.93d89dd8e162538288d0.jpg",
     "static/media/lulc_analysis.jpg": "/static/media/lulc_analysis.95b414d91b038be1679d.jpg",
@@ -25,9 +25,11 @@
     "static/media/logo.png": "/static/media/logo.712ca74cbeb9296e5051.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/kentrix_persona.jpg": "/static/media/kentrix_persona.e16deaa6c6fa42a0af95.jpg",
+    "static/media/kentrix_mahindra2.jpg": "/static/media/kentrix_mahindra2.7b2a1d0eb1d2800fbaab.jpg",
     "static/media/themify.eot": "/static/media/themify.9bad94440d49256265a5.eot",
     "static/media/themify.ttf?-fvbane": "/static/media/themify.eda8b94308c6f538f04a.ttf",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/kentrix_persona2.jpg": "/static/media/kentrix_persona2.9a276dcef12e17d59d8c.jpg",
     "static/media/themify.woff?-fvbane": "/static/media/themify.29b39089170885ae2967.woff",
     "static/media/Flaticon.eot": "/static/media/Flaticon.a5aa3a6845e2c6f293fd.eot",
     "static/media/Flaticon.ttf": "/static/media/Flaticon.d578cf3235238cd17c6a.ttf",
@@ -40,11 +42,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.d1282189.css.map": "/static/css/main.d1282189.css.map",
-    "main.298168b0.js.map": "/static/js/main.298168b0.js.map"
+    "main.fb0524f6.css.map": "/static/css/main.fb0524f6.css.map",
+    "main.3c9b9b85.js.map": "/static/js/main.3c9b9b85.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1282189.css",
-    "static/js/main.298168b0.js"
+    "static/css/main.fb0524f6.css",
+    "static/js/main.3c9b9b85.js"
   ]
 }
