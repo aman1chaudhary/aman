@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ecadf348.css",
-    "main.js": "/static/js/main.2285db26.js",
+    "main.css": "/static/css/main.eb990678.css",
+    "main.js": "/static/js/main.67acad3a.js",
     "static/media/bg1.jpg": "/static/media/bg1.93d89dd8e162538288d0.jpg",
     "static/media/main-background.jpg": "/static/media/main-background.93d89dd8e162538288d0.jpg",
     "static/media/lulc_analysis.jpg": "/static/media/lulc_analysis.95b414d91b038be1679d.jpg",
     "static/media/geoid.jpg": "/static/media/geoid.3a45c210cc1fc67a8635.jpg",
+    "static/media/reefs-lab.jpg": "/static/media/reefs-lab.388eed19ef0aec5cd232.jpg",
     "static/media/banner_1.png": "/static/media/banner_1.0f76c958de50e051fc48.png",
     "static/media/wcl_iitgn.jpg": "/static/media/wcl_iitgn.8fb1f0c2535d038c2e31.jpg",
     "static/media/sports_iitgn.jpg": "/static/media/sports_iitgn.439c72e5823ea4cb4dae.jpg",
     "static/media/synoce.jpg": "/static/media/synoce.8e8fa86a683ebd50de3b.jpg",
     "static/media/food_waste_management.jpg": "/static/media/food_waste_management.c02666f5369bd2d93b10.jpg",
+    "static/media/pdc-iitgn.jpg": "/static/media/pdc-iitgn.f7fef5d827b4d684a150.jpg",
     "static/media/india_drought_monitor.jpg": "/static/media/india_drought_monitor.f18ce8b772ddef8f832f.jpg",
     "static/media/kentrix_karma.jpg": "/static/media/kentrix_karma.aff2e841898a84c3ed4d.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -42,11 +44,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.ecadf348.css.map": "/static/css/main.ecadf348.css.map",
-    "main.2285db26.js.map": "/static/js/main.2285db26.js.map"
+    "main.eb990678.css.map": "/static/css/main.eb990678.css.map",
+    "main.67acad3a.js.map": "/static/js/main.67acad3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecadf348.css",
-    "static/js/main.2285db26.js"
+    "static/css/main.eb990678.css",
+    "static/js/main.67acad3a.js"
   ]
 }
